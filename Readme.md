@@ -12,11 +12,15 @@ bash test-port.sh
 ```
 2. Escolha uma das opções oferecidas referentes a protocolos.
 3. Para protocolos *TCP* e *UDP.
+
 Passar host/port, exemplos:
+
 TCP:
 `www.google.com/80 `
+
 UDP:
 `www.google.com/53`
+
 ICMP:
 `wwww.google.com`
 

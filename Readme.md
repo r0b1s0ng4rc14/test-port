@@ -6,7 +6,7 @@ Ter o linux instalado default bash
 
 ## Como utilizar:
 
-1. Execute o arquivo **test-port.sh
+1. Execute o arquivo **test-port.sh**
 ```bash
 bash test-port.sh
 ```
